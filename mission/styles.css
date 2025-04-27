@@ -1,0 +1,38 @@
+* {
+    font: 20px;
+    font-family: "Times New Roman";
+    line-height: 1.5;
+    vertical-align: middle;
+}
+
+h1 {
+    letter-spacing: 2px;
+}
+
+h4 {
+    color: #006EB6; 
+    letter-spacing: 2px; 
+    border-bottom-style: solid;
+    border-bottom-width: .1px;
+    border-color: #006EB6; 
+    padding-bottom: -20px;
+}
+
+.content {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+header {
+    text-transform: uppercase;
+    text-align: center;
+    
+}
+
+.logo {
+    width: 150px;
+}
+
+footer {
+    text-align: center;
+}
