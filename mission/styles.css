@@ -2,11 +2,11 @@
     font: 20px;
     font-family: "Times New Roman";
     line-height: 1.5;
-    vertical-align: middle;
 }
 
 h1 {
     letter-spacing: 2px;
+    margin-top:70px;
 }
 
 h4 {
@@ -15,7 +15,7 @@ h4 {
     border-bottom-style: solid;
     border-bottom-width: .1px;
     border-color: #006EB6; 
-    padding-bottom: -20px;
+    margin-bottom: 40px;
 }
 
 .content {
@@ -31,8 +31,13 @@ header {
 
 .logo {
     width: 150px;
+    margin-top: 30px;
 }
 
 footer {
     text-align: center;
+}
+
+li {
+    margin: 15px;
 }
